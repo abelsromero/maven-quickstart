@@ -1,6 +1,5 @@
 package io.github.abelsromero.quickstart;
 
-
 import java.time.LocalDate;
 
 public class MainRunner {
