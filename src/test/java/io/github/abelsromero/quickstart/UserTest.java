@@ -25,7 +25,7 @@ public class UserTest {
         assertThat(user.getBirthDate().getYear())
             .isEqualTo(birthYear);
         assertThat(user.getAge())
-            .isEqualTo(35);
+            .isEqualTo(36);
     }
 
     @Test
